@@ -198,3 +198,63 @@ se(produtoA < 5){
     não comprar
 }
 ```
+
+
+# Bibliotecas
+
+É uma parte do trabalho que já foi feito. 
+Para usa-las é preciso importar, para importar é usado o comando "import"
+No protugol é inserido como:
+inclua biblioteca nome_biblioteca
+
+ex
+```
+programa
+{
+	inclua biblioteca Tipos
+	real num, transformar
+	
+	funcao inicio()
+	{
+	
+		escreva("um numero decimal qualquer:  ") 
+		leia(num)
+
+		 transformar = Tipos.inteiro_para_real(num)
+		 escreva ("o numero inteiro é: " + transformar)
+	}
+}
+```
+
+
+# Desvio Condicional 
+
+## Condicional Simples: se
+O SE é uma condição, nas linguagens de programação é o if.
+Geralmente os parametros são:
+```
+if(condicao){
+    bloco_de_codigo
+}
+```
+ex
+```
+inteiro numero = 9
+
+se(numero > 8){
+    executar
+}
+```
+## Condicional Composto: se ... senão
+
+Nas linguagens de programação usa-se if ... else
+Geralmente os parametros são:
+```
+if(condicao){
+    bloco_de_codigo_verdadeiro
+}else{
+    bloco_de_codigo_falso
+}
+```
+
+continuar da aula 21....
