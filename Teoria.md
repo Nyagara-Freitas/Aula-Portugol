@@ -1,5 +1,18 @@
 # Teoria Portugol
 
+## Comentários
+Comentário simples é //
+Comentário de multiplas linhas /**/
+
+```
+ex 
+// esse é um comentário simples
+
+/* linha 1 comentada
+linha 2 comentada 
+linha 3 comentada */
+```
+
 ## Introdução as Variáveis 
 
 As variáveis precisam ser tipadas 
@@ -16,6 +29,7 @@ ex: tipo_da_variavel nome_da_variavel = valor da variavel
 ```
 inteiro numeroDois = 2
 ```
+## Tipos Primitivos de Variáveis
 
 No portugol, assim como em outras linguagens, existem alguns tipos de variaveis 
 
