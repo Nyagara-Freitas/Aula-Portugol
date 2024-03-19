@@ -271,4 +271,37 @@ if(condicao){
 }
 ```
 
-continuar da aula 21....
+
+## Condicional Encadeado (Aninhado) se, senão se, senão
+
+
+Os parametros são: 
+```
+se(condicao1){
+	se a condição1 for verdadeira
+}senao se(condicao2){
+	se a condição1 for falsa 
+}se{
+	se a condicao2 for falsa
+}
+```
+
+## Condicional: Comando escolha caso
+
+Essa função é usada quando você quer que o usuário escolha, por exemplo uma calculadora onde é escolhido uma das operações. 
+Nas linguagens utiliza-se "case"
+
+ex
+escolha (opção){
+	caso valor1:
+		comandos a executar
+		pare
+	caso valor2:
+		comandos a executar 
+		pare
+	caso contrario:
+		comandos-padrão
+}
+
+## Números aleatórios
+

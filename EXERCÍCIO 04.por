@@ -8,7 +8,7 @@ Elabore um algoritmo que calcule a média final de um aluno desta disciplina.
 programa
 {
 	
-inteiro prova1, prova2, prova3, result
+real prova1, prova2, prova3, result
 	
 	funcao inicio()
 	{
