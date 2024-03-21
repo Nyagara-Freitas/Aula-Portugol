@@ -303,5 +303,25 @@ escolha (opção){
 		comandos-padrão
 }
 
-## Números aleatórios
+# Estruturas de Repetição
 
+São laços que repetem em loop.
+Loop é um ciclo infinito, que é preciso cuidado para o sistema não travar no loop.
+
+As duas principais estruturas de repetição são: enquanto e para 
+
+Enquanto = while
+Para = for
+
+```
+ex
+while(condicao){
+
+}
+
+for(contador de inicio;valor de fim;incremento){
+
+}
+
+for(i = 0;i <= 10;i++)
+```
