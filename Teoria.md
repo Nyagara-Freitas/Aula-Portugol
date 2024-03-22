@@ -325,3 +325,18 @@ for(contador de inicio;valor de fim;incremento){
 
 for(i = 0;i <= 10;i++)
 ```
+
+# Estrutura de Dados
+
+O array é usado para dados homogêneos
+pode ser vetor, matriz ou cubo
+
+-vetor é unidimencional, uma linha, lista
+```
+cadeia vetorArray[3] = [Joao, Jose, Maria]
+```
+-matriz é bidimencional, tem linhas e colunas
+```
+inteiro matrizArray[2][4] = [[3,4]
+[3,4,8,7]]
+```
