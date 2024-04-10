@@ -323,7 +323,7 @@ for(contador de inicio;valor de fim;incremento){
 
 }
 
-for(i = 0;i <= 10;i++)
+
 ```
 
 # Estrutura de Dados
@@ -341,3 +341,6 @@ inteiro matrizArray[2][4] = [[3,4]
 [3,4,8,7]]
 ```
 
+## Pesquisa Binária em Vetores
+
+Na pesquisa binária é dividido ao meio a parte da lista que pode conter o item. É ordenado a partir do meio, para maior ou menor. 
