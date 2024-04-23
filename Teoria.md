@@ -344,3 +344,29 @@ inteiro matrizArray[2][4] = [[3,4]
 ## Pesquisa Binária em Vetores
 
 Na pesquisa binária é dividido ao meio a parte da lista que pode conter o item. É ordenado a partir do meio, para maior ou menor. 
+
+## Funções e Procedimentos 
+
+São similares 
+Funções costumam ter a passagem de parâmetros 
+```
+ex
+programa
+{
+	inteiro numA, numB
+	funcao inicio()
+	{
+		escreva("1:\n")
+		leia(numA)
+		escreva("2:\n")
+		leia(numB)
+		calcular(numA, numB)
+	}
+	funcao calcular(inteiro a, inteiro b) {
+		inteiro soma = a + b
+		escreva("o resultado é: ", soma)
+	}
+}
+```
+Procedimentos não costumam ter a passagem de parâmetros 
+
